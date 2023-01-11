@@ -1,5 +1,5 @@
 # imdb_movie_clone
-🪧 Demo :- https://amiku3203.github.io/imdb_movie_clone/https://amiku3203.github.io/imdb_movie_clone/
+🪧 Demo :-  https://amiku3203.github.io/imdb_movie_clone/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
